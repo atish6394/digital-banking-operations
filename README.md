@@ -32,4 +32,7 @@ Key Features
 Disclaimer
 
 All cases and data are simulated for learning and portfolio purposes. No real bank systems or customer data are used.
+## Jira project 
+[View Digital Banking Operations Board]
+https://atish-a-banking-ops.atlassian.net/jira/software/projects/KAN/list?jql=project+%3D+KAN+ORDER+BY+cf%5B10019%5D+ASC&atlOrigin=eyJpIjoiZTRlY2EwNzU1OWU3NDJlYmE3YWIzZGFkYTUwNDE3ZDMiLCJwIjoiaiJ9
 
